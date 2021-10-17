@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leolead
+- 👋 Hi, I’m @Leolead/Steeze
 - 👀 I’m interested in ... modding terraria
 - 🌱 I’m currently learning ... how to mod terraria
 - 💞️ I’m looking to collaborate on ... modding terraria
